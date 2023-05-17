@@ -7,7 +7,7 @@ mysh: mysh.o
 	$(CC) $(CFLAGS) $^ -o $@
 
 abc: abc.o
-	$(CC) $(CFLAGS) $^ -o $@
+	$(CC) $(CFLAGS) $^ -o $@ 
 
 reverse: reverse.o
 	$(CC) $(CFLAGS) $^ -o $@
