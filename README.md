@@ -1,4 +1,4 @@
-# My-Shell
+# My Shell
 Implements a single command-line shell that is able to handle both interactive and batch modes. The shell takes up to one argument. 
 When given one argument, it is run in batch mode and when no arugements are given, it runs in interactive mode. 
 
